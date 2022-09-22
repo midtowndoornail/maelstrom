@@ -21,7 +21,7 @@
                     "file":"index.html",
                     "transparent": true,
                     "clickthrough": true,
-                    "resizable": false,
+                    "resizable": true,
                     "show_in_taskbar": false,
                     "size": {
                         "width":1920,

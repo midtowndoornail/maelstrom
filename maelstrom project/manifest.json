@@ -19,7 +19,7 @@
         "windows":{
             "MainWindow":{
                     "file":"index.html",
-                    "transparent": true,
+                    "transparent": false,
                     "clickthrough": true,
                     "resizable": true,
                     "show_in_taskbar": false,

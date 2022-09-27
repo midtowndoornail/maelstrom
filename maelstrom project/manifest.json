@@ -13,7 +13,7 @@
     "data": {
         "game_targeting": {
             "type": "dedicated",
-            "game_ids": [7764]
+            "game_ids": [10902]
         },
         "start_window": "MainWindow",
         "windows":{
@@ -33,16 +33,16 @@
                     }
                 }
         },
-        "game_events": [7764],
+        "game_events": [10902],
         "launch_events": [
             {
                 "event": "GameLaunch",
                 "event_data": {
                     "game_ids": [
-                        7764
+                        10902
                     ]
                 },
-                "start_minimized": true
+                "start_minimized": false
             }]
     }
 }
